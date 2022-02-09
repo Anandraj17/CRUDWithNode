@@ -1,0 +1,3962 @@
+[
+   {
+      "P_Key": 1,
+      "car_name": "Maruti",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.24,
+      "end_price(in lacs)": 5.8,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 2,
+      "car_name": "Maruti Alto 800",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.15,
+      "end_price(in lacs)": 4.82,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 3,
+      "car_name": "Maruti S-Presso",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.78,
+      "end_price(in lacs)": 5.43,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 4,
+      "car_name": "Hyundai Santro",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.86,
+      "end_price(in lacs)": 6.44,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 5,
+      "car_name": "Maruti Eeco",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.38,
+      "end_price(in lacs)": 5.68,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 6,
+      "car_name": "Datsun redi-GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.83,
+      "end_price(in lacs)": 4.95,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 7,
+      "car_name": "Datsun GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.02,
+      "end_price(in lacs)": 6.51,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 8,
+      "car_name": "Datsun GO Plus",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.25,
+      "end_price(in lacs)": 6.99,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 9,
+      "car_name": "Bajaj Qute (RE60)",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 2.63,
+      "end_price(in lacs)": 2.63,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 10,
+      "car_name": "Strom Motors R3",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.5,
+      "end_price(in lacs)": 4.5,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 11,
+      "car_name": "Datsun GO A Petrol",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.99,
+      "end_price(in lacs)": 4.99,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 12,
+      "car_name": "Maruti Alto 800 STD",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.15,
+      "end_price(in lacs)": 3.15,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 13,
+      "car_name": "Maruti Alto 800 LXI",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.86,
+      "end_price(in lacs)": 3.86,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 14,
+      "car_name": "Maruti Eeco 5 Seater AC",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.78,
+      "end_price(in lacs)": 4.78,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 15,
+      "car_name": "Datsun redi-GO T Option",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.53,
+      "end_price(in lacs)": 4.53,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 16,
+      "car_name": "Tata Punch",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.64,
+      "end_price(in lacs)": 5.64,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 17,
+      "car_name": "Tata Punch Adventure",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.94,
+      "end_price(in lacs)": 6.94,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 18,
+      "car_name": "Tata Punch Creative",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.38,
+      "end_price(in lacs)": 8.38,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 19,
+      "car_name": "Tata Tiago XE",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.19,
+      "end_price(in lacs)": 5.19,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 20,
+      "car_name": "Tata Tiago XT Limited Edition",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.79,
+      "end_price(in lacs)": 5.79,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 21,
+      "car_name": "Tata Tiago XT CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.69,
+      "end_price(in lacs)": 6.69,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 22,
+      "car_name": "Tata Tiago XZ Plus Dual Tone Roof CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.64,
+      "end_price(in lacs)": 7.64,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 23,
+      "car_name": "Maruti Swift LXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.85,
+      "end_price(in lacs)": 5.85,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 24,
+      "car_name": "Maruti Swift ZXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.27,
+      "end_price(in lacs)": 7.27,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 25,
+      "car_name": "Maruti Swift ZXI Plus DT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.17,
+      "end_price(in lacs)": 8.17,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 26,
+      "car_name": "Maruti Swift ZXI Plus DT AMT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.67,
+      "end_price(in lacs)": 8.67,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 27,
+      "car_name": "Maruti Vitara Brezza VXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.67,
+      "end_price(in lacs)": 8.67,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 28,
+      "car_name": "Maruti Vitara Brezza ZXI Plus",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.9,
+      "end_price(in lacs)": 9.9,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 29,
+      "car_name": "Maruti Vitara Brezza ZXI Plus Dual Tone",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.99,
+      "end_price(in lacs)": 9.99,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 30,
+      "car_name": "Kia Seltos HTE G",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.95,
+      "end_price(in lacs)": 9.95,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 31,
+      "car_name": "Mahindra XUV700 MX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.49,
+      "end_price(in lacs)": 12.49,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 32,
+      "car_name": "Mahindra XUV700 MX Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.99,
+      "end_price(in lacs)": 12.99,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 33,
+      "car_name": "Mahindra Thar AX Opt 4-Str Convert Top",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.78,
+      "end_price(in lacs)": 12.78,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 34,
+      "car_name": "Mahindra Thar AX Opt 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.08,
+      "end_price(in lacs)": 13.08,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 35,
+      "car_name": "Mahindra Thar LX 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.68,
+      "end_price(in lacs)": 13.68,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 36,
+      "car_name": "Mahindra Scorpio S5",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.07,
+      "end_price(in lacs)": 13.07,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 37,
+      "car_name": "Mahindra Scorpio S3 Plus 9 Seater",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.94,
+      "end_price(in lacs)": 12.94,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 38,
+      "car_name": "Hyundai Creta E",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 10.23,
+      "end_price(in lacs)": 10.23,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 39,
+      "car_name": "Hyundai Creta EX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 11.19,
+      "end_price(in lacs)": 11.19,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 40,
+      "car_name": "Hyundai Creta SX Executive Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.37,
+      "end_price(in lacs)": 14.37,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 41,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 11.1,
+      "end_price(in lacs)": 11.1,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 42,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT Dual Tone",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 11.19,
+      "end_price(in lacs)": 11.19,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 43,
+      "car_name": "Kia Seltos HTX G",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.85,
+      "end_price(in lacs)": 13.85,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 44,
+      "car_name": "Kia Seltos HTK Plus AT D",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.25,
+      "end_price(in lacs)": 14.25,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 45,
+      "car_name": "Tata Harrier XE",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.49,
+      "end_price(in lacs)": 14.49,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 46,
+      "car_name": "Volvo XC90 T8 Twin Inscription 7STR",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 96.65,
+      "end_price(in lacs)": 96.65,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 47,
+      "car_name": "Jeep Wrangler Rubicon",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 60.35,
+      "end_price(in lacs)": 60.35,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 48,
+      "car_name": "Land Rover Defender 110 SE",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 89.85,
+      "end_price(in lacs)": 89.85,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 49,
+      "car_name": "BMW X5 xDrive 40i M Sport",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 92.9,
+      "end_price(in lacs)": 92.9,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 50,
+      "car_name": "Audi A6 45 TFSI Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 64.7,
+      "end_price(in lacs)": 64.7,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 51,
+      "car_name": "BMW 3 Series M340i Xdrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 64.9,
+      "end_price(in lacs)": 64.9,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 52,
+      "car_name": "Audi Q5 Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 64.09,
+      "end_price(in lacs)": 64.09,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 53,
+      "car_name": "Porsche Macan GTS",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 146,
+      "end_price(in lacs)": 146,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 54,
+      "car_name": "Jaguar F-Pace 2.0 R-Dynamic S",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 71.95,
+      "end_price(in lacs)": 71.95,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 55,
+      "car_name": "Mercedes-Benz V-Class Marco Polo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 146,
+      "end_price(in lacs)": 146,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 56,
+      "car_name": "Audi A8",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 157,
+      "end_price(in lacs)": 157,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 57,
+      "car_name": "Audi RS7 4.0 TFSI",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 219,
+      "end_price(in lacs)": 219,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 58,
+      "car_name": "BMW 7 Series M 760Li xDrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 246,
+      "end_price(in lacs)": 246,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 59,
+      "car_name": "Porsche Cayenne Turbo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 193,
+      "end_price(in lacs)": 193,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 60,
+      "car_name": "Bentley Flying Spur W12",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 341,
+      "end_price(in lacs)": 341,
+      "area": {
+         "region": "Pune"
+      }
+   },
+    {
+      "P_Key": 61,
+      "car_name": "Renault KWID",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.24,
+      "end_price(in lacs)": 6.8,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 62,
+      "car_name": "Maruti Alto 800",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.15,
+      "end_price(in lacs)": 5.82,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 63,
+      "car_name": "Maruti S-Presso",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.78,
+      "end_price(in lacs)": 6.43,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 64,
+      "car_name": "Hyundai Santro",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.86,
+      "end_price(in lacs)": 7.44,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 65,
+      "car_name": "Maruti Eeco",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.38,
+      "end_price(in lacs)": 6.68,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 66,
+      "car_name": "Datsun redi-GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.83,
+      "end_price(in lacs)": 5.95,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 67,
+      "car_name": "Datsun GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.02,
+      "end_price(in lacs)": 7.51,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 68,
+      "car_name": "Datsun GO Plus",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.25,
+      "end_price(in lacs)": 7.99,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 69,
+      "car_name": "Bajaj Qute (RE60)",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.63,
+      "end_price(in lacs)": 3.63,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 70,
+      "car_name": "Strom Motors R3",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.5,
+      "end_price(in lacs)": 5.5,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 71,
+      "car_name": "Datsun GO A Petrol",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.99,
+      "end_price(in lacs)": 5.99,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 72,
+      "car_name": "Maruti Alto 800 STD",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.15,
+      "end_price(in lacs)": 4.15,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 73,
+      "car_name": "Maruti Alto 800 LXI",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.86,
+      "end_price(in lacs)": 4.86,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 74,
+      "car_name": "Maruti Eeco 5 Seater AC",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.78,
+      "end_price(in lacs)": 5.78,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 75,
+      "car_name": "Datsun redi-GO T Option",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.53,
+      "end_price(in lacs)": 5.53,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 76,
+      "car_name": "Tata Punch",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.64,
+      "end_price(in lacs)": 6.64,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 77,
+      "car_name": "Tata Punch Adventure",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.94,
+      "end_price(in lacs)": 7.94,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 78,
+      "car_name": "Tata Punch Creative",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.38,
+      "end_price(in lacs)": 9.38,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 79,
+      "car_name": "Tata Tiago XE",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.19,
+      "end_price(in lacs)": 6.19,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 80,
+      "car_name": "Tata Tiago XT Limited Edition",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.79,
+      "end_price(in lacs)": 6.79,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 81,
+      "car_name": "Tata Tiago XT CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.69,
+      "end_price(in lacs)": 7.69,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 82,
+      "car_name": "Tata Tiago XZ Plus Dual Tone Roof CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.64,
+      "end_price(in lacs)": 8.64,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 83,
+      "car_name": "Maruti Swift LXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.85,
+      "end_price(in lacs)": 6.85,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 84,
+      "car_name": "Maruti Swift ZXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.27,
+      "end_price(in lacs)": 8.27,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 85,
+      "car_name": "Maruti Swift ZXI Plus DT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.17,
+      "end_price(in lacs)": 9.17,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 86,
+      "car_name": "Maruti Swift ZXI Plus DT AMT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.67,
+      "end_price(in lacs)": 9.67,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 87,
+      "car_name": "Maruti Vitara Brezza VXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.67,
+      "end_price(in lacs)": 9.67,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 88,
+      "car_name": "Maruti Vitara Brezza ZXI Plus",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 10.9,
+      "end_price(in lacs)": 10.9,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 89,
+      "car_name": "Maruti Vitara Brezza ZXI Plus Dual Tone",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 10.99,
+      "end_price(in lacs)": 10.99,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 90,
+      "car_name": "Kia Seltos HTE G",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 10.95,
+      "end_price(in lacs)": 10.95,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 91,
+      "car_name": "Mahindra XUV700 MX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.49,
+      "end_price(in lacs)": 13.49,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 92,
+      "car_name": "Mahindra XUV700 MX Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.99,
+      "end_price(in lacs)": 13.99,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 93,
+      "car_name": "Mahindra Thar AX Opt 4-Str Convert Top",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.78,
+      "end_price(in lacs)": 13.78,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 94,
+      "car_name": "Mahindra Thar AX Opt 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.08,
+      "end_price(in lacs)": 14.08,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 95,
+      "car_name": "Mahindra Thar LX 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.68,
+      "end_price(in lacs)": 14.68,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 96,
+      "car_name": "Mahindra Scorpio S5",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.07,
+      "end_price(in lacs)": 14.07,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 97,
+      "car_name": "Mahindra Scorpio S3 Plus 9 Seater",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.94,
+      "end_price(in lacs)": 13.94,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 98,
+      "car_name": "Hyundai Creta E",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 11.23,
+      "end_price(in lacs)": 11.23,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 99,
+      "car_name": "Hyundai Creta EX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.19,
+      "end_price(in lacs)": 12.19,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 100,
+      "car_name": "Hyundai Creta SX Executive Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 15.37,
+      "end_price(in lacs)": 15.37,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 101,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.1,
+      "end_price(in lacs)": 12.1,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 102,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT Dual Tone",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.19,
+      "end_price(in lacs)": 12.19,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 103,
+      "car_name": "Kia Seltos HTX G",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.85,
+      "end_price(in lacs)": 14.85,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 104,
+      "car_name": "Kia Seltos HTK Plus AT D",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 15.25,
+      "end_price(in lacs)": 15.25,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 105,
+      "car_name": "Tata Harrier XE",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 15.49,
+      "end_price(in lacs)": 15.49,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 106,
+      "car_name": "Volvo XC90 T8 Twin Inscription 7STR",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 97.65,
+      "end_price(in lacs)": 97.65,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 107,
+      "car_name": "Jeep Wrangler Rubicon",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 61.35,
+      "end_price(in lacs)": 61.35,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 108,
+      "car_name": "Land Rover Defender 110 SE",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 90.85,
+      "end_price(in lacs)": 90.85,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 109,
+      "car_name": "BMW X5 xDrive 40i M Sport",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 93.9,
+      "end_price(in lacs)": 93.9,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 110,
+      "car_name": "Audi A6 45 TFSI Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 65.7,
+      "end_price(in lacs)": 65.7,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 111,
+      "car_name": "BMW 3 Series M340i Xdrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 65.9,
+      "end_price(in lacs)": 65.9,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 112,
+      "car_name": "Audi Q5 Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 65.09,
+      "end_price(in lacs)": 65.09,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 113,
+      "car_name": "Porsche Macan GTS",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 147,
+      "end_price(in lacs)": 147,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 114,
+      "car_name": "Jaguar F-Pace 2.0 R-Dynamic S",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 72.95,
+      "end_price(in lacs)": 72.95,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 115,
+      "car_name": "Mercedes-Benz V-Class Marco Polo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 147,
+      "end_price(in lacs)": 147,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 116,
+      "car_name": "Audi A8",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 158,
+      "end_price(in lacs)": 158,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 117,
+      "car_name": "Audi RS7 4.0 TFSI",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 220,
+      "end_price(in lacs)": 220,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 118,
+      "car_name": "BMW 7 Series M 760Li xDrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 247,
+      "end_price(in lacs)": 247,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 119,
+      "car_name": "Porsche Cayenne Turbo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 194,
+      "end_price(in lacs)": 194,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 120,
+      "car_name": "Bentley Flying Spur W12",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 342,
+      "end_price(in lacs)": 342,
+      "area": {
+         "region": "Mumbai"
+      }
+   },
+    {
+      "P_Key": 121,
+      "car_name": "Renault KWID",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.66,
+      "end_price(in lacs)": 6.38,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 122,
+      "car_name": "Maruti Alto 800",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.47,
+      "end_price(in lacs)": 5.3,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 123,
+      "car_name": "Maruti S-Presso",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.16,
+      "end_price(in lacs)": 5.97,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 124,
+      "car_name": "Hyundai Santro",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.35,
+      "end_price(in lacs)": 7.08,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 125,
+      "car_name": "Maruti Eeco",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.82,
+      "end_price(in lacs)": 6.25,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 126,
+      "car_name": "Datsun redi-GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.21,
+      "end_price(in lacs)": 5.45,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 127,
+      "car_name": "Datsun GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.42,
+      "end_price(in lacs)": 7.16,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 128,
+      "car_name": "Datsun GO Plus",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.68,
+      "end_price(in lacs)": 7.69,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 129,
+      "car_name": "Bajaj Qute (RE60)",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 2.89,
+      "end_price(in lacs)": 2.89,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 130,
+      "car_name": "Strom Motors R3",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.95,
+      "end_price(in lacs)": 4.95,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 131,
+      "car_name": "Datsun GO A Petrol",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.49,
+      "end_price(in lacs)": 5.49,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 132,
+      "car_name": "Maruti Alto 800 STD",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.47,
+      "end_price(in lacs)": 3.47,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 133,
+      "car_name": "Maruti Alto 800 LXI",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.25,
+      "end_price(in lacs)": 4.25,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 134,
+      "car_name": "Maruti Eeco 5 Seater AC",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.26,
+      "end_price(in lacs)": 5.26,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 135,
+      "car_name": "Datsun redi-GO T Option",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.98,
+      "end_price(in lacs)": 4.98,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 136,
+      "car_name": "Tata Punch",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.2,
+      "end_price(in lacs)": 6.2,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 137,
+      "car_name": "Tata Punch Adventure",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.63,
+      "end_price(in lacs)": 7.63,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 138,
+      "car_name": "Tata Punch Creative",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.22,
+      "end_price(in lacs)": 9.22,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 139,
+      "car_name": "Tata Tiago XE",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.71,
+      "end_price(in lacs)": 5.71,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 140,
+      "car_name": "Tata Tiago XT Limited Edition",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.37,
+      "end_price(in lacs)": 6.37,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 141,
+      "car_name": "Tata Tiago XT CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.36,
+      "end_price(in lacs)": 7.36,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 142,
+      "car_name": "Tata Tiago XZ Plus Dual Tone Roof CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.4,
+      "end_price(in lacs)": 8.4,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 143,
+      "car_name": "Maruti Swift LXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.44,
+      "end_price(in lacs)": 6.44,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 144,
+      "car_name": "Maruti Swift ZXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8,
+      "end_price(in lacs)": 8,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 145,
+      "car_name": "Maruti Swift ZXI Plus DT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.99,
+      "end_price(in lacs)": 8.99,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 146,
+      "car_name": "Maruti Swift ZXI Plus DT AMT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.54,
+      "end_price(in lacs)": 9.54,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 147,
+      "car_name": "Maruti Vitara Brezza VXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.54,
+      "end_price(in lacs)": 9.54,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 148,
+      "car_name": "Maruti Vitara Brezza ZXI Plus",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 10.89,
+      "end_price(in lacs)": 10.89,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 149,
+      "car_name": "Maruti Vitara Brezza ZXI Plus Dual Tone",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 10.99,
+      "end_price(in lacs)": 10.99,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 150,
+      "car_name": "Kia Seltos HTE G",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 10.95,
+      "end_price(in lacs)": 10.95,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 151,
+      "car_name": "Mahindra XUV700 MX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.74,
+      "end_price(in lacs)": 13.74,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 152,
+      "car_name": "Mahindra XUV700 MX Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.29,
+      "end_price(in lacs)": 14.29,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 153,
+      "car_name": "Mahindra Thar AX Opt 4-Str Convert Top",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.06,
+      "end_price(in lacs)": 14.06,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 154,
+      "car_name": "Mahindra Thar AX Opt 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.39,
+      "end_price(in lacs)": 14.39,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 155,
+      "car_name": "Mahindra Thar LX 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 15.05,
+      "end_price(in lacs)": 15.05,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 156,
+      "car_name": "Mahindra Scorpio S5",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.38,
+      "end_price(in lacs)": 14.38,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 157,
+      "car_name": "Mahindra Scorpio S3 Plus 9 Seater",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.23,
+      "end_price(in lacs)": 14.23,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 158,
+      "car_name": "Hyundai Creta E",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 11.25,
+      "end_price(in lacs)": 11.25,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 159,
+      "car_name": "Hyundai Creta EX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.31,
+      "end_price(in lacs)": 12.31,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 160,
+      "car_name": "Hyundai Creta SX Executive Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 15.81,
+      "end_price(in lacs)": 15.81,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 161,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.21,
+      "end_price(in lacs)": 12.21,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 162,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT Dual Tone",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.31,
+      "end_price(in lacs)": 12.31,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 163,
+      "car_name": "Kia Seltos HTX G",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 15.24,
+      "end_price(in lacs)": 15.24,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 164,
+      "car_name": "Kia Seltos HTK Plus AT D",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 15.68,
+      "end_price(in lacs)": 15.68,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 165,
+      "car_name": "Tata Harrier XE",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 15.94,
+      "end_price(in lacs)": 15.94,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 166,
+      "car_name": "Volvo XC90 T8 Twin Inscription 7STR",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 106.32,
+      "end_price(in lacs)": 106.32,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 167,
+      "car_name": "Jeep Wrangler Rubicon",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 66.39,
+      "end_price(in lacs)": 66.39,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 168,
+      "car_name": "Land Rover Defender 110 SE",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 98.84,
+      "end_price(in lacs)": 98.84,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 169,
+      "car_name": "BMW X5 xDrive 40i M Sport",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 102.19,
+      "end_price(in lacs)": 102.19,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 170,
+      "car_name": "Audi A6 45 TFSI Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 71.17,
+      "end_price(in lacs)": 71.17,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 171,
+      "car_name": "BMW 3 Series M340i Xdrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 71.39,
+      "end_price(in lacs)": 71.39,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 172,
+      "car_name": "Audi Q5 Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 70.5,
+      "end_price(in lacs)": 70.5,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 173,
+      "car_name": "Porsche Macan GTS",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 160.6,
+      "end_price(in lacs)": 160.6,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 174,
+      "car_name": "Jaguar F-Pace 2.0 R-Dynamic S",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 79.15,
+      "end_price(in lacs)": 79.15,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 175,
+      "car_name": "Mercedes-Benz V-Class Marco Polo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 160.6,
+      "end_price(in lacs)": 160.6,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 176,
+      "car_name": "Audi A8",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 172.7,
+      "end_price(in lacs)": 172.7,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 177,
+      "car_name": "Audi RS7 4.0 TFSI",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 240.9,
+      "end_price(in lacs)": 240.9,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 178,
+      "car_name": "BMW 7 Series M 760Li xDrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 270.6,
+      "end_price(in lacs)": 270.6,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 179,
+      "car_name": "Porsche Cayenne Turbo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 212.3,
+      "end_price(in lacs)": 212.3,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 180,
+      "car_name": "Bentley Flying Spur W12",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 375.1,
+      "end_price(in lacs)": 375.1,
+      "area": {
+         "region": "New Delhi"
+      }
+   },
+    {
+      "P_Key": 181,
+      "car_name": "Renault KWID",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.51,
+      "end_price(in lacs)": 7.54,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 182,
+      "car_name": "Maruti Alto 800",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.1,
+      "end_price(in lacs)": 6.27,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 183,
+      "car_name": "Maruti S-Presso",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.91,
+      "end_price(in lacs)": 7.06,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 184,
+      "car_name": "Hyundai Santro",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 6.32,
+      "end_price(in lacs)": 8.37,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 185,
+      "car_name": "Maruti Eeco",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.69,
+      "end_price(in lacs)": 7.38,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 186,
+      "car_name": "Datsun redi-GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.98,
+      "end_price(in lacs)": 6.44,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 187,
+      "car_name": "Datsun GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.23,
+      "end_price(in lacs)": 8.46,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 188,
+      "car_name": "Datsun GO Plus",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.53,
+      "end_price(in lacs)": 9.09,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 189,
+      "car_name": "Bajaj Qute (RE60)",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.42,
+      "end_price(in lacs)": 3.42,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 190,
+      "car_name": "Strom Motors R3",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.85,
+      "end_price(in lacs)": 5.85,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 191,
+      "car_name": "Datsun GO A Petrol",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 6.49,
+      "end_price(in lacs)": 6.49,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 192,
+      "car_name": "Maruti Alto 800 STD",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.1,
+      "end_price(in lacs)": 4.1,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 193,
+      "car_name": "Maruti Alto 800 LXI",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.02,
+      "end_price(in lacs)": 5.02,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 194,
+      "car_name": "Maruti Eeco 5 Seater AC",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 6.21,
+      "end_price(in lacs)": 6.21,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 195,
+      "car_name": "Datsun redi-GO T Option",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 5.89,
+      "end_price(in lacs)": 5.89,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 196,
+      "car_name": "Tata Punch",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.33,
+      "end_price(in lacs)": 7.33,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 197,
+      "car_name": "Tata Punch Adventure",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.02,
+      "end_price(in lacs)": 9.02,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 198,
+      "car_name": "Tata Punch Creative",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 10.89,
+      "end_price(in lacs)": 10.89,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 199,
+      "car_name": "Tata Tiago XE",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.75,
+      "end_price(in lacs)": 6.75,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 200,
+      "car_name": "Tata Tiago XT Limited Edition",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.53,
+      "end_price(in lacs)": 7.53,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 201,
+      "car_name": "Tata Tiago XT CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.7,
+      "end_price(in lacs)": 8.7,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 202,
+      "car_name": "Tata Tiago XZ Plus Dual Tone Roof CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.93,
+      "end_price(in lacs)": 9.93,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 203,
+      "car_name": "Maruti Swift LXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.61,
+      "end_price(in lacs)": 7.61,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 204,
+      "car_name": "Maruti Swift ZXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.45,
+      "end_price(in lacs)": 9.45,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 205,
+      "car_name": "Maruti Swift ZXI Plus DT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 10.62,
+      "end_price(in lacs)": 10.62,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 206,
+      "car_name": "Maruti Swift ZXI Plus DT AMT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 11.27,
+      "end_price(in lacs)": 11.27,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 207,
+      "car_name": "Maruti Vitara Brezza VXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 11.27,
+      "end_price(in lacs)": 11.27,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 208,
+      "car_name": "Maruti Vitara Brezza ZXI Plus",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 12.87,
+      "end_price(in lacs)": 12.87,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 209,
+      "car_name": "Maruti Vitara Brezza ZXI Plus Dual Tone",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 12.99,
+      "end_price(in lacs)": 12.99,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 210,
+      "car_name": "Kia Seltos HTE G",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 12.94,
+      "end_price(in lacs)": 12.94,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 211,
+      "car_name": "Mahindra XUV700 MX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 16.24,
+      "end_price(in lacs)": 16.24,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 212,
+      "car_name": "Mahindra XUV700 MX Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 16.89,
+      "end_price(in lacs)": 16.89,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 213,
+      "car_name": "Mahindra Thar AX Opt 4-Str Convert Top",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 16.61,
+      "end_price(in lacs)": 16.61,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 214,
+      "car_name": "Mahindra Thar AX Opt 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 17,
+      "end_price(in lacs)": 17,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 215,
+      "car_name": "Mahindra Thar LX 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 17.78,
+      "end_price(in lacs)": 17.78,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 216,
+      "car_name": "Mahindra Scorpio S5",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 16.99,
+      "end_price(in lacs)": 16.99,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 217,
+      "car_name": "Mahindra Scorpio S3 Plus 9 Seater",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 16.82,
+      "end_price(in lacs)": 16.82,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 218,
+      "car_name": "Hyundai Creta E",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.3,
+      "end_price(in lacs)": 13.3,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 219,
+      "car_name": "Hyundai Creta EX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.55,
+      "end_price(in lacs)": 14.55,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 220,
+      "car_name": "Hyundai Creta SX Executive Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 18.68,
+      "end_price(in lacs)": 18.68,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 221,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.43,
+      "end_price(in lacs)": 14.43,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 222,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT Dual Tone",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.55,
+      "end_price(in lacs)": 14.55,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 223,
+      "car_name": "Kia Seltos HTX G",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 18.01,
+      "end_price(in lacs)": 18.01,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 224,
+      "car_name": "Kia Seltos HTK Plus AT D",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 18.53,
+      "end_price(in lacs)": 18.53,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 225,
+      "car_name": "Tata Harrier XE",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 18.84,
+      "end_price(in lacs)": 18.84,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 226,
+      "car_name": "Volvo XC90 T8 Twin Inscription 7STR",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 125.65,
+      "end_price(in lacs)": 125.65,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 227,
+      "car_name": "Jeep Wrangler Rubicon",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 78.46,
+      "end_price(in lacs)": 78.46,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 228,
+      "car_name": "Land Rover Defender 110 SE",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 116.81,
+      "end_price(in lacs)": 116.81,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 229,
+      "car_name": "BMW X5 xDrive 40i M Sport",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 120.77,
+      "end_price(in lacs)": 120.77,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 230,
+      "car_name": "Audi A6 45 TFSI Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 84.11,
+      "end_price(in lacs)": 84.11,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 231,
+      "car_name": "BMW 3 Series M340i Xdrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 84.37,
+      "end_price(in lacs)": 84.37,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 232,
+      "car_name": "Audi Q5 Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 83.32,
+      "end_price(in lacs)": 83.32,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 233,
+      "car_name": "Porsche Macan GTS",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 189.8,
+      "end_price(in lacs)": 189.8,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 234,
+      "car_name": "Jaguar F-Pace 2.0 R-Dynamic S",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 93.54,
+      "end_price(in lacs)": 93.54,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 235,
+      "car_name": "Mercedes-Benz V-Class Marco Polo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 189.8,
+      "end_price(in lacs)": 189.8,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 236,
+      "car_name": "Audi A8",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 204.1,
+      "end_price(in lacs)": 204.1,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 237,
+      "car_name": "Audi RS7 4.0 TFSI",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 284.7,
+      "end_price(in lacs)": 284.7,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 238,
+      "car_name": "BMW 7 Series M 760Li xDrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 319.8,
+      "end_price(in lacs)": 319.8,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 239,
+      "car_name": "Porsche Cayenne Turbo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 250.9,
+      "end_price(in lacs)": 250.9,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 240,
+      "car_name": "Bentley Flying Spur W12",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 443.3,
+      "end_price(in lacs)": 443.3,
+      "area": {
+         "region": "Bangalore"
+      }
+   },
+    {
+      "P_Key": 241,
+      "car_name": "Renault KWID",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.04,
+      "end_price(in lacs)": 5.6,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 242,
+      "car_name": "Maruti Alto 800",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 2.95,
+      "end_price(in lacs)": 4.62,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 243,
+      "car_name": "Maruti S-Presso",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.58,
+      "end_price(in lacs)": 5.23,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 244,
+      "car_name": "Hyundai Santro",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.66,
+      "end_price(in lacs)": 6.24,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 245,
+      "car_name": "Maruti Eeco",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.18,
+      "end_price(in lacs)": 5.48,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 246,
+      "car_name": "Datsun redi-GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.63,
+      "end_price(in lacs)": 4.75,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 247,
+      "car_name": "Datsun GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.82,
+      "end_price(in lacs)": 6.31,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 248,
+      "car_name": "Datsun GO Plus",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.05,
+      "end_price(in lacs)": 6.79,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 249,
+      "car_name": "Bajaj Qute (RE60)",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 2.43,
+      "end_price(in lacs)": 2.43,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 250,
+      "car_name": "Strom Motors R3",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.3,
+      "end_price(in lacs)": 4.3,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 251,
+      "car_name": "Datsun GO A Petrol",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.79,
+      "end_price(in lacs)": 4.79,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 252,
+      "car_name": "Maruti Alto 800 STD",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 2.95,
+      "end_price(in lacs)": 2.95,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 253,
+      "car_name": "Maruti Alto 800 LXI",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.66,
+      "end_price(in lacs)": 3.66,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 254,
+      "car_name": "Maruti Eeco 5 Seater AC",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.58,
+      "end_price(in lacs)": 4.58,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 255,
+      "car_name": "Datsun redi-GO T Option",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.33,
+      "end_price(in lacs)": 4.33,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 256,
+      "car_name": "Tata Punch",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.44,
+      "end_price(in lacs)": 5.44,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 257,
+      "car_name": "Tata Punch Adventure",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.74,
+      "end_price(in lacs)": 6.74,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 258,
+      "car_name": "Tata Punch Creative",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.18,
+      "end_price(in lacs)": 8.18,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 259,
+      "car_name": "Tata Tiago XE",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 4.99,
+      "end_price(in lacs)": 4.99,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 260,
+      "car_name": "Tata Tiago XT Limited Edition",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.59,
+      "end_price(in lacs)": 5.59,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 261,
+      "car_name": "Tata Tiago XT CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.49,
+      "end_price(in lacs)": 6.49,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 262,
+      "car_name": "Tata Tiago XZ Plus Dual Tone Roof CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.44,
+      "end_price(in lacs)": 7.44,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 263,
+      "car_name": "Maruti Swift LXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.65,
+      "end_price(in lacs)": 5.65,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 264,
+      "car_name": "Maruti Swift ZXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.07,
+      "end_price(in lacs)": 7.07,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 265,
+      "car_name": "Maruti Swift ZXI Plus DT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.97,
+      "end_price(in lacs)": 7.97,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 266,
+      "car_name": "Maruti Swift ZXI Plus DT AMT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.47,
+      "end_price(in lacs)": 8.47,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 267,
+      "car_name": "Maruti Vitara Brezza VXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.47,
+      "end_price(in lacs)": 8.47,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 268,
+      "car_name": "Maruti Vitara Brezza ZXI Plus",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.7,
+      "end_price(in lacs)": 9.7,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 269,
+      "car_name": "Maruti Vitara Brezza ZXI Plus Dual Tone",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.79,
+      "end_price(in lacs)": 9.79,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 270,
+      "car_name": "Kia Seltos HTE G",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.75,
+      "end_price(in lacs)": 9.75,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 271,
+      "car_name": "Mahindra XUV700 MX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.29,
+      "end_price(in lacs)": 12.29,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 272,
+      "car_name": "Mahindra XUV700 MX Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.79,
+      "end_price(in lacs)": 12.79,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 273,
+      "car_name": "Mahindra Thar AX Opt 4-Str Convert Top",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.58,
+      "end_price(in lacs)": 12.58,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 274,
+      "car_name": "Mahindra Thar AX Opt 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.88,
+      "end_price(in lacs)": 12.88,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 275,
+      "car_name": "Mahindra Thar LX 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.48,
+      "end_price(in lacs)": 13.48,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 276,
+      "car_name": "Mahindra Scorpio S5",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.87,
+      "end_price(in lacs)": 12.87,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 277,
+      "car_name": "Mahindra Scorpio S3 Plus 9 Seater",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.74,
+      "end_price(in lacs)": 12.74,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 278,
+      "car_name": "Hyundai Creta E",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 10.03,
+      "end_price(in lacs)": 10.03,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 279,
+      "car_name": "Hyundai Creta EX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 10.99,
+      "end_price(in lacs)": 10.99,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 280,
+      "car_name": "Hyundai Creta SX Executive Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.17,
+      "end_price(in lacs)": 14.17,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 281,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 10.9,
+      "end_price(in lacs)": 10.9,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 282,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT Dual Tone",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 10.99,
+      "end_price(in lacs)": 10.99,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 283,
+      "car_name": "Kia Seltos HTX G",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.65,
+      "end_price(in lacs)": 13.65,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 284,
+      "car_name": "Kia Seltos HTK Plus AT D",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.05,
+      "end_price(in lacs)": 14.05,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 285,
+      "car_name": "Tata Harrier XE",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.29,
+      "end_price(in lacs)": 14.29,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 286,
+      "car_name": "Volvo XC90 T8 Twin Inscription 7STR",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 96.45,
+      "end_price(in lacs)": 96.45,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 287,
+      "car_name": "Jeep Wrangler Rubicon",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 60.15,
+      "end_price(in lacs)": 60.15,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 288,
+      "car_name": "Land Rover Defender 110 SE",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 89.65,
+      "end_price(in lacs)": 89.65,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 289,
+      "car_name": "BMW X5 xDrive 40i M Sport",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 92.7,
+      "end_price(in lacs)": 92.7,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 290,
+      "car_name": "Audi A6 45 TFSI Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 64.5,
+      "end_price(in lacs)": 64.5,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 291,
+      "car_name": "BMW 3 Series M340i Xdrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 64.7,
+      "end_price(in lacs)": 64.7,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 292,
+      "car_name": "Audi Q5 Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 63.89,
+      "end_price(in lacs)": 63.89,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 293,
+      "car_name": "Porsche Macan GTS",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 145.8,
+      "end_price(in lacs)": 145.8,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 294,
+      "car_name": "Jaguar F-Pace 2.0 R-Dynamic S",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 71.75,
+      "end_price(in lacs)": 71.75,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 295,
+      "car_name": "Mercedes-Benz V-Class Marco Polo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 145.8,
+      "end_price(in lacs)": 145.8,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 296,
+      "car_name": "Audi A8",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 156.8,
+      "end_price(in lacs)": 156.8,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 297,
+      "car_name": "Audi RS7 4.0 TFSI",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 218.8,
+      "end_price(in lacs)": 218.8,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 298,
+      "car_name": "BMW 7 Series M 760Li xDrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 245.8,
+      "end_price(in lacs)": 245.8,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 299,
+      "car_name": "Porsche Cayenne Turbo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 192.8,
+      "end_price(in lacs)": 192.8,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 300,
+      "car_name": "Bentley Flying Spur W12",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 340.8,
+      "end_price(in lacs)": 340.8,
+      "area": {
+         "region": "Chennai"
+      }
+   },
+    {
+      "P_Key": 301,
+      "car_name": "Renault KWID",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.94,
+      "end_price(in lacs)": 5.5,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 302,
+      "car_name": "Maruti Alto 800",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 2.85,
+      "end_price(in lacs)": 4.52,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 303,
+      "car_name": "Maruti S-Presso",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.48,
+      "end_price(in lacs)": 5.13,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 304,
+      "car_name": "Hyundai Santro",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.56,
+      "end_price(in lacs)": 6.14,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 305,
+      "car_name": "Maruti Eeco",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.08,
+      "end_price(in lacs)": 5.38,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 306,
+      "car_name": "Datsun redi-GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.53,
+      "end_price(in lacs)": 4.65,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 307,
+      "car_name": "Datsun GO",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.72,
+      "end_price(in lacs)": 6.21,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 308,
+      "car_name": "Datsun GO Plus",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.95,
+      "end_price(in lacs)": 6.69,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 309,
+      "car_name": "Bajaj Qute (RE60)",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 2.33,
+      "end_price(in lacs)": 2.33,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 310,
+      "car_name": "Strom Motors R3",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.2,
+      "end_price(in lacs)": 4.2,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 311,
+      "car_name": "Datsun GO A Petrol",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.69,
+      "end_price(in lacs)": 4.69,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 312,
+      "car_name": "Maruti Alto 800 STD",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 2.85,
+      "end_price(in lacs)": 2.85,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 313,
+      "car_name": "Maruti Alto 800 LXI",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 3.56,
+      "end_price(in lacs)": 3.56,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 314,
+      "car_name": "Maruti Eeco 5 Seater AC",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.48,
+      "end_price(in lacs)": 4.48,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 315,
+      "car_name": "Datsun redi-GO T Option",
+      "type": "economy",
+      "range(in lacs)": "less than 5",
+      "start_price(in lacs)": 4.23,
+      "end_price(in lacs)": 4.23,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 316,
+      "car_name": "Tata Punch",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.34,
+      "end_price(in lacs)": 5.34,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 317,
+      "car_name": "Tata Punch Adventure",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.64,
+      "end_price(in lacs)": 6.64,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 318,
+      "car_name": "Tata Punch Creative",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.08,
+      "end_price(in lacs)": 8.08,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 319,
+      "car_name": "Tata Tiago XE",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 4.89,
+      "end_price(in lacs)": 4.89,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 320,
+      "car_name": "Tata Tiago XT Limited Edition",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.49,
+      "end_price(in lacs)": 5.49,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 321,
+      "car_name": "Tata Tiago XT CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.39,
+      "end_price(in lacs)": 6.39,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 322,
+      "car_name": "Tata Tiago XZ Plus Dual Tone Roof CNG",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.34,
+      "end_price(in lacs)": 7.34,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 323,
+      "car_name": "Maruti Swift LXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 5.55,
+      "end_price(in lacs)": 5.55,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 324,
+      "car_name": "Maruti Swift ZXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 6.97,
+      "end_price(in lacs)": 6.97,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 325,
+      "car_name": "Maruti Swift ZXI Plus DT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 7.87,
+      "end_price(in lacs)": 7.87,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 326,
+      "car_name": "Maruti Swift ZXI Plus DT AMT",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.37,
+      "end_price(in lacs)": 8.37,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 327,
+      "car_name": "Maruti Vitara Brezza VXI",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 8.37,
+      "end_price(in lacs)": 8.37,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 328,
+      "car_name": "Maruti Vitara Brezza ZXI Plus",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.6,
+      "end_price(in lacs)": 9.6,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 329,
+      "car_name": "Maruti Vitara Brezza ZXI Plus Dual Tone",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.69,
+      "end_price(in lacs)": 9.69,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 330,
+      "car_name": "Kia Seltos HTE G",
+      "type": "budget",
+      "range(in lacs)": "5月10日",
+      "start_price(in lacs)": 9.65,
+      "end_price(in lacs)": 9.65,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 331,
+      "car_name": "Mahindra XUV700 MX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.19,
+      "end_price(in lacs)": 12.19,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 332,
+      "car_name": "Mahindra XUV700 MX Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.69,
+      "end_price(in lacs)": 12.69,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 333,
+      "car_name": "Mahindra Thar AX Opt 4-Str Convert Top",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.48,
+      "end_price(in lacs)": 12.48,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 334,
+      "car_name": "Mahindra Thar AX Opt 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.78,
+      "end_price(in lacs)": 12.78,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 335,
+      "car_name": "Mahindra Thar LX 4-Str Hard Top Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.38,
+      "end_price(in lacs)": 13.38,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 336,
+      "car_name": "Mahindra Scorpio S5",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.77,
+      "end_price(in lacs)": 12.77,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 337,
+      "car_name": "Mahindra Scorpio S3 Plus 9 Seater",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 12.64,
+      "end_price(in lacs)": 12.64,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 338,
+      "car_name": "Hyundai Creta E",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 9.93,
+      "end_price(in lacs)": 9.93,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 339,
+      "car_name": "Hyundai Creta EX",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 10.89,
+      "end_price(in lacs)": 10.89,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 340,
+      "car_name": "Hyundai Creta SX Executive Diesel",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.07,
+      "end_price(in lacs)": 14.07,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 341,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 10.8,
+      "end_price(in lacs)": 10.8,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 342,
+      "car_name": "Maruti Vitara Brezza ZXI Plus AT Dual Tone",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 10.89,
+      "end_price(in lacs)": 10.89,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 343,
+      "car_name": "Kia Seltos HTX G",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.55,
+      "end_price(in lacs)": 13.55,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 344,
+      "car_name": "Kia Seltos HTK Plus AT D",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 13.95,
+      "end_price(in lacs)": 13.95,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 345,
+      "car_name": "Tata Harrier XE",
+      "type": "mid-range",
+      "range(in lacs)": "10月15日",
+      "start_price(in lacs)": 14.19,
+      "end_price(in lacs)": 14.19,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 346,
+      "car_name": "Volvo XC90 T8 Twin Inscription 7STR",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 96.35,
+      "end_price(in lacs)": 96.35,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 347,
+      "car_name": "Jeep Wrangler Rubicon",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 60.05,
+      "end_price(in lacs)": 60.05,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 348,
+      "car_name": "Land Rover Defender 110 SE",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 89.55,
+      "end_price(in lacs)": 89.55,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 349,
+      "car_name": "BMW X5 xDrive 40i M Sport",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 92.6,
+      "end_price(in lacs)": 92.6,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 350,
+      "car_name": "Audi A6 45 TFSI Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 64.4,
+      "end_price(in lacs)": 64.4,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 351,
+      "car_name": "BMW 3 Series M340i Xdrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 64.6,
+      "end_price(in lacs)": 64.6,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 352,
+      "car_name": "Audi Q5 Technology",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 63.79,
+      "end_price(in lacs)": 63.79,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 353,
+      "car_name": "Porsche Macan GTS",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 145.7,
+      "end_price(in lacs)": 145.7,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 354,
+      "car_name": "Jaguar F-Pace 2.0 R-Dynamic S",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 71.65,
+      "end_price(in lacs)": 71.65,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 355,
+      "car_name": "Mercedes-Benz V-Class Marco Polo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 145.7,
+      "end_price(in lacs)": 145.7,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 356,
+      "car_name": "Audi A8",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 156.7,
+      "end_price(in lacs)": 156.7,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 357,
+      "car_name": "Audi RS7 4.0 TFSI",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 218.7,
+      "end_price(in lacs)": 218.7,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 358,
+      "car_name": "BMW 7 Series M 760Li xDrive",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 245.7,
+      "end_price(in lacs)": 245.7,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 359,
+      "car_name": "Porsche Cayenne Turbo",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 192.7,
+      "end_price(in lacs)": 192.7,
+      "area": {
+         "region": "Calcutta"
+      }
+   },
+    {
+      "P_Key": 360,
+      "car_name": "Bentley Flying Spur W12",
+      "type": "luxury",
+      "range(in lacs)": "more than 15",
+      "start_price(in lacs)": 340.7,
+      "end_price(in lacs)": 340.7,
+      "area": {
+         "region": "Calcutta"
+      }
+   }
+   ]

@@ -1,0 +1,19 @@
+{
+  "name": "datasciencelab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.2"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
